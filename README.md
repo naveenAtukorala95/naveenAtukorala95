@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen Atukorala. I am Software Engineer with close to 4=5 years of industry experience. I have Bsc(Hons) in Software Engineering Degree.
+- 👋 Hi, I’m Naveen Atukorala. I am Software Engineer with close to 5 years of industry experience. I have Bsc(Hons) in Software Engineering Degree.
 - 👀 I’m interested in Full Stack Development with cutting edge technologies.
 - 🌱 I’m currently working as a Full Stack Software Engineer
 - 📫 How to reach me:
